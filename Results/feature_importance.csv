@@ -1,0 +1,382 @@
+feature,importance
+remainder__year,0.09851801200340923
+cat__country_peru,0.07751841297814141
+cat__country_united states of america,0.0765680920800342
+cat__food_supply_stage_whole supply chain,0.03218914799284144
+cat__commodity_tomatoes,0.023848261151215848
+cat__food_supply_stage_farm,0.023842266701802013
+cat__food_supply_stage_transport,0.022768795210865903
+cat__food_supply_stage_post-harvest,0.020526064023333533
+cat__commodity_orange juice,0.018675331692637142
+cat__commodity_grapefruit juice,0.017900292751174322
+cat__commodity_pineapple juice,0.017572142485197874
+cat__country_benin,0.016020676534558263
+cat__food_supply_stage_households,0.016012998440907634
+cat__commodity_canned mushrooms,0.012625913977374429
+cat__country_ghana,0.012603059036164198
+cat__food_supply_stage_retail,0.011955647280911995
+cat__commodity_maize (corn),0.011050324928435903
+"cat__commodity_mangoes, guavas and mangosteens",0.011007793675212695
+cat__food_supply_stage_harvest,0.010287158054835096
+cat__commodity_wheat,0.010276817809266082
+cat__commodity_papayas,0.010007310491031686
+cat__commodity_cabbages,0.009843606899070293
+cat__food_supply_stage_storage,0.009611741101612704
+cat__country_bangladesh,0.00920291250964884
+cat__commodity_rice,0.008812896026364264
+cat__country_mexico,0.008510105727071868
+cat__country_venezuela (bolivarian republic of),0.008425292609733272
+cat__country_kenya,0.008314414105124212
+cat__commodity_carrots and turnips,0.0081998211254881
+cat__country_india,0.007901397147710239
+cat__country_australia,0.007863900421329728
+cat__country_nepal,0.007405352162941881
+cat__country_united republic of tanzania,0.007289832461705511
+"cat__commodity_other fruits, n.e.c.",0.006733898567128383
+cat__commodity_bananas,0.006605468073005542
+cat__country_haiti,0.006411973713748
+cat__commodity_apple juice,0.0063236521599459965
+"cat__commodity_beans, dry",0.006110375928687977
+cat__commodity_green garlic,0.005974940019344814
+cat__commodity_pineapples,0.005920345697598571
+cat__commodity_potatoes,0.005896774203133583
+cat__commodity_raw milk of cattle,0.005548402032869964
+cat__commodity_mustard seed,0.005333774541440108
+cat__commodity_plantains and cooking bananas,0.005285384676562707
+cat__country_cameroon,0.005139257764646762
+"cat__commodity_onions and shallots, green",0.005101833806845121
+cat__country_egypt,0.005098311780092514
+cat__country_pakistan,0.004805548904085347
+"cat__commodity_uncooked pasta, not stuffed or otherwise prepared",0.004802564066393942
+cat__commodity_watermelons,0.004754337616622718
+cat__country_hungary,0.0046394767216827
+cat__country_armenia,0.004623709600288796
+cat__country_sri lanka,0.004416559404870634
+cat__commodity_plums and sloes,0.004387648982083999
+cat__country_viet nam,0.004226488200268602
+cat__country_jamaica,0.004192791866396354
+cat__country_austria,0.004143067168277483
+cat__commodity_apples,0.004092976324636897
+cat__food_supply_stage_processing,0.004066552006742694
+cat__commodity_oranges,0.004001606148795663
+cat__commodity_wheat and meslin flour,0.003980842254649225
+cat__commodity_eggplants (aubergines),0.003964767900753507
+cat__country_iran (islamic republic of),0.003851026109738837
+cat__country_sweden,0.0038431795008094932
+cat__country_finland,0.003836416619249799
+cat__commodity_okra,0.0037580073262143765
+cat__country_nigeria,0.0036920952215001392
+cat__country_canada,0.003654785350237447
+"cat__commodity_coffee, green",0.003611420827892824
+cat__country_republic of korea,0.0035805732965999227
+cat__commodity_yams,0.0035297201890769577
+cat__country_rwanda,0.003331048942294782
+cat__commodity_apricots,0.003270316794286055
+cat__commodity_cauliflowers and broccoli,0.0032454642810681514
+cat__food_supply_stage_wholesale,0.00314603767893513
+cat__country_denmark,0.003132190965290146
+cat__country_australia and new zealand,0.0030966754444020175
+cat__country_united kingdom of great britain and northern ireland,0.003036385885338636
+cat__commodity_lettuce and chicory,0.0029833326150151174
+cat__food_supply_stage_trader,0.0029748548538123952
+cat__country_ukraine,0.0028818416718548795
+cat__commodity_mixed grain,0.002735110237865036
+cat__commodity_grape juice,0.0027347552808872216
+"cat__commodity_snails, fresh, chilled, frozen, dried, salted or in brine, except sea snails",0.002709352313554658
+"cat__commodity_cow peas, dry",0.0026823916184035186
+cat__country_guatemala,0.0026122318852463936
+cat__country_mali,0.002588916604489805
+cat__country_trinidad and tobago,0.0025542352776470032
+"cat__commodity_cassava, fresh",0.0025491628253937544
+cat__country_afghanistan,0.0024781746263089427
+cat__country_panama,0.002413441364192423
+cat__country_indonesia,0.0024017798008912844
+"cat__commodity_pumpkins, squash and gourds",0.00232057585429825
+cat__commodity_avocados,0.0023019257995165157
+cat__country_china,0.0021494562878479674
+cat__commodity_yautia,0.0021472850317346714
+cat__commodity_grapes,0.0019390783499917182
+cat__commodity_leeks and other alliaceous vegetables,0.0019331753483779023
+cat__country_ethiopia,0.001929144069373529
+cat__food_supply_stage_export,0.001869847456496678
+cat__commodity_cucumbers and gherkins,0.001868082335004445
+cat__commodity_figs,0.0017745174681787416
+cat__commodity_sorghum,0.0017725377078170582
+cat__country_cambodia,0.001760412534413149
+cat__commodity_sweet potatoes,0.001678617338201068
+cat__country_philippines,0.0016316512679214869
+"cat__commodity_tangerines, mandarins, clementines",0.0016140394303998558
+cat__commodity_barley,0.00157748088135118
+cat__commodity_pears,0.0015671225789652572
+"cat__commodity_onions and shallots, dry (excluding dehydrated)",0.0015095166941848366
+cat__country_mauritius,0.001465209124543683
+"cat__commodity_pepper (<i>piper</i> spp.), raw",0.0014124316326500736
+"cat__commodity_hen eggs in shell, fresh",0.001361423639843698
+cat__country_kazakhstan,0.0013492286363518786
+cat__country_brazil,0.0013416308133081473
+cat__country_syrian arab republic,0.001332316053631742
+cat__food_supply_stage_pre-harvest,0.001300878100889498
+cat__country_mozambique,0.0012828580545390365
+cat__country_oman,0.0011872188563070802
+cat__country_france,0.0011636015324224555
+cat__country_nicaragua,0.001153869430897883
+"cat__commodity_other vegetables, fresh n.e.c.",0.0011288750091556395
+cat__country_south africa,0.0011077158288569616
+cat__commodity_strawberries,0.0010799431099433978
+cat__country_azerbaijan,0.0010748303686035066
+cat__country_ecuador,0.0010485968362454788
+cat__commodity_sunflower seed,0.0010283084981340537
+cat__country_uganda,0.0010099411469177094
+cat__country_cuba,0.0009801302081301965
+cat__country_chad,0.0009370134565890862
+cat__commodity_olives,0.0009026112614671872
+"cat__commodity_other tropical and subtropical fruits, n.e.c.",0.000900579290773344
+cat__commodity_quinoa,0.0009005366667665209
+"cat__commodity_meat of pig, fresh or chilled",0.0008948219157371047
+cat__country_zambia,0.0008623888005534277
+cat__country_togo,0.0008533416740276595
+cat__country_sudan,0.0008253454962470887
+cat__food_supply_stage_market,0.0008219407072973764
+cat__commodity_millet,0.000775654804575941
+cat__country_sierra leone,0.0007631890121425789
+cat__country_africa,0.000759240952488743
+cat__country_malawi,0.0007414301605411609
+"cat__commodity_peas, green",0.0007148876414704132
+"cat__commodity_coconuts, in shell",0.0006988568688011151
+cat__commodity_cantaloupes and other melons,0.0006681449746782027
+"cat__commodity_mangoes, guavas, mangosteens",0.0006665136595162235
+cat__commodity_spinach,0.0006593805588404254
+cat__food_supply_stage_packing,0.0006506743358947064
+cat__country_saudi arabia,0.0006349266991403008
+cat__country_norway,0.0006330405410063441
+"cat__commodity_walnuts, in shell",0.000620168887964166
+"cat__commodity_other legumes, for forage",0.0006112578172206316
+"cat__commodity_cassava, dry",0.0005895300810892045
+cat__country_democratic people's republic of korea,0.0005676629129083217
+"cat__commodity_broad beans and horse beans, dry",0.0005598491722907773
+cat__food_supply_stage_collector,0.0005552219298910154
+cat__country_morocco,0.0005164394535783122
+"cat__commodity_groundnuts, excluding shelled",0.0005114384499120687
+cat__commodity_oats,0.000504363910781502
+"cat__commodity_almonds, in shell",0.000500211705981637
+cat__country_liberia,0.0004992476827067124
+cat__commodity_lemons and limes,0.0004957172486004946
+cat__country_palestine,0.0004903043514096386
+cat__commodity_rye,0.00048680197012913374
+cat__commodity_cherries,0.00047862005687513077
+cat__commodity_sugar beet,0.00047592161238560075
+cat__country_japan,0.0004576919955364151
+cat__country_niger,0.00045542604986087876
+cat__commodity_peaches and nectarines,0.00045446655095629653
+cat__country_georgia,0.00045178163665536233
+cat__commodity_artichokes,0.00042642574190218647
+cat__country_germany,0.00042606426270618995
+cat__commodity_wine,0.00042049436425582536
+cat__country_burkina faso,0.00041908462798819396
+cat__country_guyana,0.000412458952736648
+"cat__commodity_chillies and peppers, green (capsicum spp. and pimenta spp.)",0.00041107512545829464
+cat__country_bahrain,0.00040598396720252993
+cat__commodity_pomelos and grapefruits,0.00040097085419866656
+cat__food_supply_stage_food services,0.0003992698982548417
+cat__country_poland,0.00038083007304045457
+cat__country_algeria,0.00037982005128970805
+cat__commodity_taro,0.0003762132734270902
+cat__country_fiji,0.0003729529300297166
+cat__commodity_asparagus,0.0003641632019448657
+cat__commodity_dates,0.00035677684662793936
+cat__commodity_plantains and others,0.00035476750528933156
+cat__country_world,0.00035039601821456923
+"cat__commodity_other fruits, n.e.",0.00034570070327942596
+cat__country_honduras,0.00034555707003343307
+"cat__commodity_swedes, for forage",0.00033430934131432704
+"cat__commodity_meat of cattle with the bone, fresh or chilled",0.00033376748341994877
+cat__commodity_refined sugar,0.0003307636769641235
+cat__country_lithuania,0.0003216419133414921
+cat__country_italy,0.00032030565713279886
+cat__country_romania,0.0003190404029296493
+cat__commodity_kiwi fruit,0.00030638164334998824
+"cat__commodity_meat of cattle, fresh or chilled",0.00030540654605786026
+cat__country_netherlands,0.00029930686457742294
+cat__country_switzerland,0.00029524340357374066
+"cat__commodity_chillies and peppers, green (<i>capsicum</i> spp. and <i>pimenta</i> spp.)",0.000294796915759144
+cat__food_supply_stage_distribution,0.00028835788298831695
+"cat__commodity_edible roots and tubers with high starch or inulin content, n.e.c., fresh",0.0002877330803009112
+cat__country_somalia,0.00027156261256063404
+"cat__commodity_sweet corn, prepared or preserved",0.00027067504806415217
+cat__food_supply_stage_grading,0.0002678398896351969
+cat__commodity_sugar cane,0.0002619395627758202
+"cat__commodity_meat of chickens, fresh or chilled",0.0002496122527085882
+cat__country_namibia,0.0002473947232314121
+cat__country_united kingdom,0.00024185425748012666
+cat__country_lao people's democratic republic,0.00024085560985899742
+"cat__commodity_pigeon peas, dry",0.00023794735330226363
+"cat__commodity_chillies and peppers, dry (<i>capsicum</i> spp., <i>pimenta</i> spp.), raw",0.0002373392884493558
+cat__country_senegal,0.00023687145252296543
+"cat__commodity_lentils, dry",0.00023480936830823755
+cat__country_jordan,0.0002307623579404919
+cat__country_thailand,0.00022913315579647182
+"cat__commodity_other beans, green",0.00022682979429474213
+cat__commodity_other pulses n.e.c.,0.00022516268114711167
+cat__commodity_cranberries,0.0002239223542645929
+"cat__commodity_edible roots and tubers with high starch or inulin content, n.e., fresh",0.00022122229398121654
+cat__commodity_soya beans,0.0002208976700878805
+cat__country_angola,0.00021961951170934666
+cat__commodity_blueberries,0.00021919339111060323
+cat__country_myanmar,0.00020120503728688087
+"cat__commodity_meat of pig with the bone, fresh or chilled",0.00019978355120568784
+"cat__commodity_sunflower-seed oil, crude",0.0001950790036660437
+cat__commodity_fonio,0.0001942804051600855
+cat__commodity_dairy products n.e.c.,0.00016228953337815816
+cat__country_latvia,0.0001613427854169548
+"cat__commodity_chick peas, dry",0.00016070354448483826
+cat__commodity_mushrooms and truffles,0.0001590281230446594
+cat__country_colombia,0.00015857310771603936
+cat__country_botswana,0.00014968536925375972
+"cat__commodity_pig, butcher fat",0.00014968378968099598
+cat__country_malaysia,0.00014564967282203854
+cat__commodity_other cereals n.e.,0.00013925389943538212
+cat__country_russian federation,0.0001357785508404464
+cat__commodity_raw milk of sheep,0.0001345761706605245
+"cat__commodity_other vegetables, fresh n.e.",0.000130878149589642
+"cat__commodity_cattle fat, unrendered",0.0001296151301556465
+cat__country_el salvador,0.0001287810072014224
+cat__country_belgium,0.00012619282042475695
+cat__commodity_raw milk of goats,0.00012272212011179147
+cat__country_estonia,0.00012199460542104347
+cat__country_sub-saharan africa,0.0001198742049160273
+cat__country_timor-leste,0.00011092769708754699
+cat__commodity_pulses n.e.,0.00011083595692777719
+"cat__commodity_other citrus fruit, n.e.c.",0.0001107829687922728
+cat__commodity_green corn (maize),0.00010849249528392351
+cat__commodity_triticale,0.00010701423484545605
+"cat__commodity_peas, dry",0.00010549695868834974
+"cat__commodity_meat of sheep, fresh or chilled",0.00010068715435239962
+cat__commodity_sesame seed,9.906216461030684e-05
+"cat__commodity_hazelnuts, in shell",9.87819895322243e-05
+cat__commodity_other berries and fruits of the genus vaccinium n.e.,9.235870929445088e-05
+cat__country_paraguay,9.025834041397663e-05
+"cat__commodity_pistachios, in shell",8.827102803941277e-05
+cat__country_bolivia (plurinational state of),8.679852241606279e-05
+cat__country_southern asia,8.601719309283817e-05
+"cat__commodity_rice, milled",8.416616574382037e-05
+cat__country_luxembourg,8.286235503075244e-05
+cat__country_saint kitts and nevis,8.244222522435212e-05
+cat__country_kyrgyzstan,7.94863149801121e-05
+cat__commodity_cottonseed,7.334616950441731e-05
+"cat__commodity_broad beans and horse beans, green",7.319184042808609e-05
+"cat__commodity_edible offal of pigs, fresh, chilled or frozen",7.306714764559978e-05
+cat__country_chile,7.149805053034086e-05
+cat__country_saint lucia,7.062321754754391e-05
+cat__country_costa rica,6.9132067377543e-05
+cat__country_new zealand,6.88449875332574e-05
+cat__commodity_linseed,6.690254226080493e-05
+cat__country_uzbekistan,6.566697071875962e-05
+cat__commodity_quinces,6.241009753798311e-05
+"cat__commodity_coffee, decaffeinated or roasted",6.088028505512146e-05
+cat__country_ireland,6.0451341462447565e-05
+cat__country_burundi,5.987245457844836e-05
+cat__country_zimbabwe,5.816763922181063e-05
+cat__country_gambia,5.6812069115586875e-05
+cat__commodity_raspberries,5.522015081028776e-05
+cat__country_democratic republic of the congo,5.4321407458847204e-05
+cat__country_south-eastern asia,5.3003706205719446e-05
+cat__commodity_butter of cow milk,5.1554824504406564e-05
+cat__country_latin america and the caribbean,5.0715273768812306e-05
+cat__country_israel,5.0320574862154826e-05
+cat__country_turkey,4.941851799651772e-05
+cat__commodity_rapeseed or colza seed,4.809071744071003e-05
+cat__country_madagascar,4.8023385378692104e-05
+cat__country_western asia,4.644444177081349e-05
+cat__country_guinea-bissau,4.640824442864767e-05
+cat__country_lesotho,4.359010782077228e-05
+cat__country_europe,4.350773929258759e-05
+cat__commodity_flour of cassava,4.105754330891405e-05
+cat__commodity_cheese from whole cow milk,4.023985618548507e-05
+"cat__commodity_other stimulant, spice and aromatic crops, n.e.c.",3.887463081004817e-05
+cat__country_mongolia,3.8833611959901955e-05
+cat__country_northern africa,3.8514099473770174e-05
+cat__country_guinea,3.835448810193633e-05
+cat__country_central asia,3.706198310801267e-05
+cat__commodity_lupins,3.702146803656373e-05
+cat__commodity_tapioca of cassava,3.678815729442547e-05
+cat__commodity_oil palm fruit,3.649860778145662e-05
+"cat__commodity_seed cotton, unginned",3.584256085680244e-05
+cat__commodity_cranberries and other fruits of the genus vaccinium,3.572419573070351e-05
+"cat__commodity_pig meat, cuts, salted, dried or smoked (bacon and ham)",3.539527119739085e-05
+cat__country_the former yugoslav republic of macedonia,3.4627880062445566e-05
+cat__country_slovakia,3.461934253365632e-05
+cat__country_tunisia,3.413743266835288e-05
+cat__country_eritrea,3.3810690314612706e-05
+"cat__commodity_vegetable products, fresh or dry n.e.c.",3.361946168218632e-05
+cat__country_côte d'ivoire,3.326486308670694e-05
+cat__commodity_cocoa beans,3.1630678432660894e-05
+cat__commodity_raw cane or beet sugar (centrifugal only),3.1315871235379374e-05
+"cat__commodity_sweet corn, frozen",3.1286004480904924e-05
+cat__country_mauritania,3.0413887654355576e-05
+cat__country_south sudan,2.958033733411382e-05
+"cat__commodity_cane sugar, non-centrifugal",2.9246644334535923e-05
+cat__commodity_safflower seed,2.7645360747069817e-05
+cat__commodity_raisins,2.7520835389432547e-05
+cat__commodity_persimmons,2.721390508210539e-05
+cat__commodity_juice of citrus fruit n.e.c.,2.5452315517633294e-05
+cat__country_spain,2.2657950389501693e-05
+cat__commodity_sugar and syrups n.e.c.,2.1836377568888222e-05
+cat__commodity_juice of lemon,2.134745266503303e-05
+cat__country_western africa,2.117829496289961e-05
+cat__commodity_other stone fruits,2.1150476720087623e-05
+cat__country_argentina,2.0406798716228706e-05
+"cat__commodity_eggs, dried",2.0103921548785413e-05
+cat__country_eswatini,1.9594876886494937e-05
+cat__commodity_other pome fruits,1.846775428340206e-05
+cat__country_serbia,1.7095276312055723e-05
+cat__country_portugal,1.7003589762256768e-05
+cat__country_gabon,1.611755390701569e-05
+cat__country_tajikistan,1.514289036485503e-05
+"cat__commodity_bambara beans, dry",1.4973487544417153e-05
+"cat__commodity_cashew nuts, in shell",1.4897149090541667e-05
+"cat__commodity_edible roots and tubers with high starch or inulin content, n.e.c., dry",1.446449669376319e-05
+cat__commodity_cattle,1.343726645386498e-05
+cat__commodity_sheep,1.3136090279838693e-05
+cat__commodity_canary seed,1.2954187368877651e-05
+cat__commodity_starch of potatoes,1.2704755426317663e-05
+cat__country_northern america,1.238976277023769e-05
+cat__country_albania,1.2267919613283138e-05
+"cat__commodity_groundnuts, shelled",1.2095355481012724e-05
+cat__commodity_flour of triticale,1.2064450642882148e-05
+"cat__commodity_meat of goat, fresh or chilled",1.0756525325934195e-05
+"cat__commodity_anise, badian, coriander, cumin, caraway, fennel and juniper berries, raw",1.07543452198287e-05
+cat__commodity_bran of maize,1.0676823492187893e-05
+cat__commodity_flour of maize,1.0473100637713242e-05
+cat__commodity_buckwheat,1.013911206564355e-05
+"cat__commodity_plums, dried",9.577338167866114e-06
+cat__country_lebanon,9.363992960318986e-06
+cat__commodity_areca nuts,9.208482696226956e-06
+cat__country_asia,8.763676396561027e-06
+"cat__commodity_meat of goat, fresh or chilled (indigenous)",8.542858912376482e-06
+"cat__commodity_rice, milled (husked)",7.758646283291461e-06
+"cat__country_china,taiwan",7.486952850920919e-06
+cat__country_new caledonia,6.324382519271613e-06
+cat__commodity_soya bean oil,5.377181700273606e-06
+cat__food_supply_stage_stacking,5.239104194788093e-06
+"cat__commodity_other tropical and subtropical fruits, n.e.",5.171231784488873e-06
+cat__commodity_poppy seed,4.802746462149324e-06
+cat__commodity_husked rice,4.667127372871879e-06
+"cat__commodity_meat of pig boneless (pork), fresh or chilled",4.385091536732477e-06
+cat__commodity_goats,4.262750412943739e-06
+cat__commodity_copra,4.177333051962731e-06
+"cat__commodity_rice, broken",4.063743147872603e-06
+cat__commodity_natural honey,3.0303445868040377e-06
+cat__commodity_rape or colza seed,3.0158581014337916e-06
+cat__country_croatia,2.946481467386051e-06
+"cat__commodity_other citrus fruit, n.e.",1.4219002242503754e-06
+"cat__commodity_edible offal of cattle, fresh, chilled or frozen",1.3759627000199777e-06
+cat__commodity_raspeberries,1.2178536358650117e-06
+cat__commodity_cereals n.e.c.,1.037867082531421e-06
+"cat__country_taiwan, province of china",8.669274453316601e-07
+cat__commodity_currants,4.0693190597069317e-07
+cat__commodity_sour cherries,2.2921276915518354e-07
+cat__country_greece,2.2732899819355352e-07
+cat__country_belarus,1.1413992469738168e-07
+cat__commodity_cereal preparations,7.94354599537849e-08
+cat__commodity_pot barley,5.970086095105405e-08
+"cat__commodity_malt, whether or not roasted",5.004250341587424e-08

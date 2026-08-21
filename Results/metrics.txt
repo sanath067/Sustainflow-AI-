@@ -1,0 +1,46 @@
+FAO Food Loss Prediction - Model Evaluation (merged real data)
+============================================================
+Split method: plain train_test_split (no synthetic data, no leakage risk)
+Features: commodity (raw), country (raw), food_supply_stage (raw), year
+Rows used (real only): 25950
+Unique commodities: 201
+Unique countries: 159
+
+Ridge (linear baseline):
+  RMSE: 4.357  MAE: 2.228  R^2: 0.513
+
+Random Forest:
+  RMSE: 3.668  MAE: 1.465  R^2: 0.655
+
+Random Forest R^2 by food_supply_stage:
+  collector: n=4  R^2=-0.387
+  distribution: n=6  R^2=0.069
+  export: n=11  R^2=-0.239
+  farm: n=1895  R^2=0.418
+  food services: n=7  R^2=-0.059
+  grading: n=1 (too few test rows for a stable R^2)
+  harvest: n=763  R^2=-0.014
+  households: n=46  R^2=0.371
+  market: n=15  R^2=0.767
+  packing: n=4  R^2=-4.267
+  post-harvest: n=14  R^2=0.390
+  pre-harvest: n=2 (too few test rows for a stable R^2)
+  processing: n=86  R^2=0.182
+  retail: n=102  R^2=0.480
+  storage: n=567  R^2=0.233
+  trader: n=6  R^2=-4.272
+  transport: n=395  R^2=0.332
+  whole supply chain: n=1227  R^2=0.887
+  wholesale: n=39  R^2=0.278
+
+Sample predictions (first 10 test rows, Random Forest):
+  Commodity: wheat | Country: eritrea | Stage: harvest | Year: 2020 | Actual: 4.43% | Predicted: 4.43%
+  Commodity: potatoes | Country: jordan | Stage: whole supply chain | Year: 2011 | Actual: 12.49% | Predicted: 8.15%
+  Commodity: millet | Country: zambia | Stage: storage | Year: 2008 | Actual: 2.60% | Predicted: 2.53%
+  Commodity: sorghum | Country: ethiopia | Stage: harvest | Year: 2018 | Actual: 4.55% | Predicted: 4.55%
+  Commodity: sweet potatoes | Country: peru | Stage: whole supply chain | Year: 2004 | Actual: 20.64% | Predicted: 20.65%
+  Commodity: maize (corn) | Country: botswana | Stage: farm | Year: 2021 | Actual: 2.21% | Predicted: 3.48%
+  Commodity: rice | Country: malawi | Stage: transport | Year: 2001 | Actual: 1.00% | Predicted: 1.00%
+  Commodity: papayas | Country: india | Stage: storage | Year: 2014 | Actual: 0.79% | Predicted: 0.53%
+  Commodity: sesame seed | Country: jordan | Stage: whole supply chain | Year: 2010 | Actual: 2.58% | Predicted: 2.71%
+  Commodity: sunflower seed | Country: germany | Stage: whole supply chain | Year: 2004 | Actual: 1.44% | Predicted: 1.75%

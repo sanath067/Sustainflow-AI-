@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Backup/raw unnecessary files
+Datasets/*_backup.csv
+Datasets/Fao_raw.csv
+Datasets/Fao_raw_extra.csv
+
+# Generated temporary files
+*.logResults/fao_model.joblib
+Results/fao_model.joblib
